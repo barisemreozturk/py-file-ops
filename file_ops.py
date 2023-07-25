@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
-
 import os
  
 
@@ -55,11 +52,3 @@ while True:
     else:
         read_files()    
         continue
-    
-
-
-# In[ ]:
-
-
-C:\Users\user\Desktop\Dersler\Yapay Zeka\Final
-
